@@ -1,0 +1,11 @@
+D:\2013-2014\XML\Project\Do_min\Do_min\bin\Debug\Do_min.exe.config
+D:\2013-2014\XML\Project\Do_min\Do_min\bin\Debug\Do_min.exe
+D:\2013-2014\XML\Project\Do_min\Do_min\bin\Debug\Do_min.pdb
+D:\2013-2014\XML\Project\Do_min\Do_min\obj\Debug\Do_min.csprojResolveAssemblyReference.cache
+D:\2013-2014\XML\Project\Do_min\Do_min\obj\Debug\Do_min.FrmMain.resources
+D:\2013-2014\XML\Project\Do_min\Do_min\obj\Debug\Do_min.Properties.Resources.resources
+D:\2013-2014\XML\Project\Do_min\Do_min\obj\Debug\Do_min.csproj.GenerateResource.Cache
+D:\2013-2014\XML\Project\Do_min\Do_min\obj\Debug\Do_min.exe
+D:\2013-2014\XML\Project\Do_min\Do_min\obj\Debug\Do_min.pdb
+D:\2013-2014\XML\Project\Do_min\Do_min\bin\Debug\bomb.png
+D:\2013-2014\XML\Project\Do_min\Do_min\bin\Debug\flag.png
